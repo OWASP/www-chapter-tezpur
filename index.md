@@ -23,7 +23,7 @@ We welcome all the security & pentesters to this amazing community. You can join
 **[OWASP Guwahati Instagram handle](https://www.instagram.com/owasp_guwahati/)**
 
 ## Welcome
-OWASP Guwahati Chapter was founded by a group of security passionated engineers to share the knowledge for cyber security.We are organising meet ups and webinar on web,API, Mobile & Cloud security.
+OWASP Guwahati Chapter was found by a group of security passionated engineers to share the knowledge for cyber security.We are organising meet ups and webinar on web,API, Mobile & Cloud security.
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.  
